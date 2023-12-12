@@ -349,7 +349,7 @@
                         </h1>
                     </div>
                     <div class="footer__description">
-                        <p>Magazinul și dulapul tău online preferat</p>
+                        <p></p>
                     </div>
                 </div>
                 <div class="footer__col">
